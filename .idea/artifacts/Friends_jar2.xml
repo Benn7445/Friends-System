@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Friends:jar2">
+    <output-path>$USER_HOME$/Desktop/bungeetest/server2/plugins</output-path>
+    <root id="archive" name="Friends.jar">
+      <element id="module-output" name="Friends" />
+    </root>
+  </artifact>
+</component>
